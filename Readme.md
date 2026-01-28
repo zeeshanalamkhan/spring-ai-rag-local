@@ -53,7 +53,7 @@ src/main/java
 
 src/main/resources
  └── docs
-     └── java-notes.pdf
+     └── notes.pdf
 ```
 
 ---
