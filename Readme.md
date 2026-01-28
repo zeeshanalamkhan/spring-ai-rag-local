@@ -198,8 +198,6 @@ Subsequent queries:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Medium
+https://medium.com/@zeeshanalamkhan/building-a-local-rag-system-with-spring-boot-spring-ai-and-ollama-step-by-step-2587003b3e91
 
-Built as a hands-on RAG POC using Spring Boot and local LLMs.
-
-Happy hacking! 🚀
